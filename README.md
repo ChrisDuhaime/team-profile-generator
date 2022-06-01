@@ -7,3 +7,7 @@ For this assignment I had to create a team profile generator. I used inquirer mo
 
 Screencastify https://drive.google.com/file/d/1dps1_xnG8dSMROzaA3TMfz472Ungec6i/view
 
+Gitbub link https://github.com/ChrisDuhaime/team-profile-generator
+
+![Screenshot](./02-Challenge/Screenshot%202022-05-31%20215543.png)
+
